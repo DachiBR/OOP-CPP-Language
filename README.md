@@ -3,8 +3,8 @@ Object Oriented Programming With C++ Language
 
 It's Challenges in C++ language to Learn Object Oriented Programming
 
-Done: ;
+Done: Practice, ;
 
-To Do: ;
+To Do: set1,set2,set3, ;
 
 //Additional information will be added soon
