@@ -1,14 +1,6 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-
-using namespace std;
-
-int main(){
-    
-    #include <iostream>
-#include <string>
-#include <algorithm>
 #include <vector>
 using namespace std;
 
@@ -86,8 +78,5 @@ int main()
         cout << identifiers.size() << endl;
     }
 
-    return 0;
-}
-    
     return 0;
 }
